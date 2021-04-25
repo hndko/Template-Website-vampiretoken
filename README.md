@@ -11,7 +11,7 @@ Aplikasi Ini Dibuat Dengan :
 - None
 
 # ScreenShot
-
+<h3>Mode Desktop</h3>
 ![1](https://user-images.githubusercontent.com/33697576/116007086-3905e880-a638-11eb-85bd-a2730a30def7.PNG) <br>
 ![2](https://user-images.githubusercontent.com/33697576/116007088-3acfac00-a638-11eb-8649-cf58311d2707.PNG) <br>
 ![3](https://user-images.githubusercontent.com/33697576/116007090-3acfac00-a638-11eb-967a-f01309747c73.PNG) <br>
